@@ -1,0 +1,17 @@
+{
+  "name": "source-rng",
+  "version": "1.0.0",
+  "description": "Uniform random implementation based on Valve's Source Engine SDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andreas Wickström Johansson",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "^26.6.3"
+  }
+}
